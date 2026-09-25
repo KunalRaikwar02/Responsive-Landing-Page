@@ -527,6 +527,7 @@ footer {
     bottom: -290px;
     transform: translateX(-50%) scaleX(1.5) scaleY(1.5);
     letter-spacing: -3px;
+    font-weight: 800;
     white-space: nowrap;
   }
 
@@ -690,41 +691,3 @@ footer {
     margin-top: 5rem;
   }
 }
-
-/* 
-@media (max-width: 2211px) {
-  nav {
-    padding: 2rem 2rem;
-    min-height: 190px;
-  }
-
-  .center-title p {
-    margin-left: 0;
-  }
-
-  section {
-    min-height: auto;
-    padding: 3rem 2rem 5rem;
-  }
-
-  .cen-img {
-    width: 380px;
-    height: 520px;
-  }
-
-  .img-test h1 {
-    font-size: clamp(5rem, 15vw, 9rem);
-    left: 400px;
-    bottom: -240px;
-  }
-
-  .img-test p {
-    transform: translateX(14%);
-    bottom: -3rem;
-  }
-
-  .bottom-test {
-    padding-left: 2rem;
-    padding-right: 2rem;
-  }
-} */
